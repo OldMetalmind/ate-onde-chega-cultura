@@ -184,6 +184,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.20568 38.69408)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124636093"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Rosa dos Ventos",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.796765 39.571775)"
                 },
                 "item": {
@@ -5576,6 +5592,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.924456 40.463112)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107095716"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto dos Monumentos Megal\u00edticos de Fiais/Azenha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.934015 40.45029)"
                 },
                 "item": {
@@ -5705,22 +5737,6 @@
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
                     "value": "Point(-8.0123 40.454359)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q107095716"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Conjunto dos Monumentos Megal\u00edticos de Fiais/Azenha",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.924456 40.463112)"
                 },
                 "item": {
                     "type": "uri",
