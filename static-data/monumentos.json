@@ -19414,6 +19414,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.704222 40.658339)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133867157"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ponte de Trancozelos e Nicho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.425234 40.208879)"
                 },
                 "item": {
@@ -19542,7 +19558,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1329 38.7082)"
+                    "value": "Point(-9.132876768 38.71220286)"
                 },
                 "item": {
                     "type": "uri",
