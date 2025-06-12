@@ -444,22 +444,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.147787 38.706746)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q99845706"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "A Pequena Galeria",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.672761 37.102272)"
                 },
                 "item": {
@@ -741,22 +725,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Galerias MIRA",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.671661111 37.099991666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q86733117"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Igreja do Compromisso Mar\u00edtimo de Lagos",
                     "xml:lang": "pt"
                 }
             },
