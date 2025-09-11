@@ -667,6 +667,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.640745294 40.619886693)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96624043"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa Museu Dr. Hermes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.499624 40.112662)"
                 },
                 "item": {
@@ -1428,6 +1444,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa-Oficina Ant\u00f3nio Carneiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.324403849 38.717797121)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133698142"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casal Saloio de Outeiro de Polima",
                     "xml:lang": "pt"
                 }
             },
